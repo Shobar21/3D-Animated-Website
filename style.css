@@ -516,14 +516,14 @@ nav {
   }
   #page4 h3 {
     margin-left: 12vw;
-    margin-bottom: 2vw;
+    margin-bottom: 1.5vw;
     font-size: 4vw;
     font-weight: 100;
   }
   #page4 h1 {
     font-weight: 100;
     margin-left: 12vw;
-    width: 75%;
+    width: 90%;
     font-size: 6vw;
     color: #dadada69;
   }
@@ -541,14 +541,14 @@ nav {
   }
   #page6 h3 {
     margin-left: 12vw;
-    margin-bottom: 2vw;
+    margin-bottom: 1.5vw;
     font-size: 4vw;
     font-weight: 100;
   }
   #page6 h1 {
     font-weight: 100;
     margin-left: 12vw;
-    width: 75%;
+    width: 90%;
     font-size: 6vw;
     color: #dadada69;
   }
@@ -597,7 +597,7 @@ nav {
     padding: 0 15px;
   }
   .right10-inner {
-    height: 33.3%;
+    height: 30.3%;
     width: 100%;
   }
   .right10-inner h1 {
