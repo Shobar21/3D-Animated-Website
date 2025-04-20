@@ -45,7 +45,7 @@ video {
   left: 0;
   width: 100%;
   height: 100%;
-  background-color: rgba(255, 0, 0, 0.3);
+  background-color: rgba(255, 0, 0, 0.2);
   pointer-events: none;
   z-index: 1;
 }
@@ -57,7 +57,7 @@ nav {
   position: absolute;
   width: 100vw;
   height: 10vh;
-  background-color: #4c428d46;
+  background-color: #3d2bb881;
   z-index: 2;
 }
 #right-nav button {
