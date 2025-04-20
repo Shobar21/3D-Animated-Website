@@ -522,7 +522,7 @@ nav {
   }
   #page4 h1 {
     font-weight: 100;
-    margin-left: 15vw;
+    margin-left: 12vw;
     width: 75%;
     font-size: 6vw;
     color: #dadada69;
@@ -601,10 +601,10 @@ nav {
     width: 100%;
   }
   .right10-inner h1 {
-    font-size: 6vw;
+    font-size: 5vw;
   }
   .right10-inner p {
-    font-size: 4vw;
+    font-size: 3vw;
     width: 100%;
   }
   .main-container {
